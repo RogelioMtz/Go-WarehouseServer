@@ -1,4 +1,5 @@
 # GoTestServer
+
 GoTestServer is a simple HTTP server written in Go for managing warehouse items. It uses the Gorilla Mux router for handling HTTP requests.
 
 ## Features
@@ -30,6 +31,9 @@ The `main.go` file is the main entry point for the GoTestServer application. It 
 
 ### go.mod
 The `go.mod` file defines the module and its dependencies.
+
+### server.go
+The `server.go` file contains the implementation of the server, including the router setup and handlers for the API endpoints.
 
 ### warehouseRegistration.rest
 The `warehouseRegistration.rest` file contains HTTP requests for interacting with the GoTestServer API. You can use this file with a REST client like VS Code's REST Client extension to test the API endpoints.
