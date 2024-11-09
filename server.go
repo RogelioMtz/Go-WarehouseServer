@@ -14,7 +14,7 @@ type Item struct {
 	Name     string    `json:"name"`
 	Brand    string    `json:"brand"`
 	Quantity int       `json:"quantity"`
-	State    int       `json:"state"`
+	State    string    `json:"state"`
 }
 
 type Server struct {
