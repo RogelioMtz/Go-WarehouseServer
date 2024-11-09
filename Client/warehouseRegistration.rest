@@ -1,0 +1,16 @@
+### Get all warehouse items
+GET http://localhost:8080/warehouseItems
+
+### Create a new warehouse item
+POST http://localhost:8080/warehouseItems
+Content-Type: application/json
+
+{
+  "name": "Name of the Product",
+  "brand": "Brand of the Product",
+  "quantity": 1,
+  "state": "State of the Product"
+}
+
+### Delete a warehouse item
+DELETE http://localhost:8080/warehouseItems/
