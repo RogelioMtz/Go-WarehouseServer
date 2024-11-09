@@ -10,20 +10,6 @@ Go-WarehouseServer is a simple HTTP server written in Go for managing warehouse 
 ## Requirements
 - Go 1.23.2 or higher
 
-## Installation
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/RosherMartz/testGoServer.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd testGoServer
-    ```
-3. Install dependencies:
-    ```sh
-    go mod tidy
-    ```
-
 ## Usage
 1. Run the server:
     ```sh
