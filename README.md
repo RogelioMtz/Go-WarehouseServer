@@ -37,4 +37,4 @@ GoTestServer is a simple HTTP server written in Go for managing warehouse items.
 - `DELETE /warehouseItems/{id}` - Remove a warehouse item by ID
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Mozilla Public License Version 2.0
