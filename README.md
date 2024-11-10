@@ -1,6 +1,6 @@
-# GoTestServer
+# Go-WarehouseServer
 
-GoTestServer is a simple HTTP server written in Go for managing warehouse items. It uses the Gorilla Mux router for handling HTTP requests.
+Go-WarehouseServer is a simple HTTP server written in Go for managing warehouse items. It uses the Gorilla Mux router for handling HTTP requests.
 
 ## Features
 - Add new warehouse items
@@ -27,7 +27,7 @@ GoTestServer is a simple HTTP server written in Go for managing warehouse items.
 ## Files
 
 ### main.go
-The `main.go` file is the main entry point for the GoTestServer application. It sets up an HTTP server using the Gorilla Mux router and listens on localhost at port 8080.
+The `main.go` file is the main entry point for the GoWarehouseServer application. It sets up an HTTP server using the Gorilla Mux router and listens on localhost at port 8080.
 
 ### go.mod
 The `go.mod` file defines the module and its dependencies.
