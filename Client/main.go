@@ -7,10 +7,10 @@ package main
 import (
 	"net/http"
 
-	"github.com/RogelioMtz/server"
+	api "github.com/RogelioMtz/server"
 )
 
 func main() {
-	srv := server.NewServer()
+	srv := api.NewServer()
 	http.ListenAndServe(":8080", srv)
 }
