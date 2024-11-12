@@ -1,6 +1,6 @@
 # Go-WarehouseServer
 
-Go-WarehouseServer is a simple HTTP server written in Go for managing warehouse items. It uses the Gorilla Mux router for handling HTTP requests.
+Go-WarehouseServer is a basic HTTP server written in Go for managing warehouse items. It uses the Gorilla Mux router for handling HTTP requests.
 
 ## Features
 - Add new warehouse items
