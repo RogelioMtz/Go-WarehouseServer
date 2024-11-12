@@ -1,6 +1,0 @@
-github.com/RogelioMtz/server v0.0.0-20241109020119-5282d23b331c h1:x5b/BCCLU2UrjO/3eZ5oxlgM11RdaPEgt4Eb04h3BOM=
-github.com/RogelioMtz/server v0.0.0-20241109020119-5282d23b331c/go.mod h1:iO/PuOJeLVGIxJNzFLfUvdsKyS76GGwodMg2PXO13Wc=
-github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
-github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
-github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
